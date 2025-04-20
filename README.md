@@ -62,10 +62,10 @@ ollama pull gemma:2b
 ollama pull nomic-embed-text
 
 ## Usage
+```
 1. Launch the Notebook:
    ```bash
    jupyter notebook RAG.ipynb
-   ```
 2. **Build the Vector Database**: Run all cells up to the vector store creation.
 3. **Start the Chatbot**: Execute the final cells to launch the Gradio interface. You can then ask questions in the browser or share the auto-generated link.
 
