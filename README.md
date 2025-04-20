@@ -60,8 +60,6 @@ ollama pull gemma:2b
 
 # For creating embeddings
 ollama pull nomic-embed-text
-
-## Usage
 ```
 1. Launch the Notebook:
    ```bash
