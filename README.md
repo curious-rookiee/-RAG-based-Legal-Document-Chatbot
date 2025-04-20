@@ -62,7 +62,7 @@ ollama pull gemma:2b
 ollama pull nomic-embed-text
 
 ## Usage
-1. **Launch the Notebook**:
+1. Launch the Notebook:
    ```bash
    jupyter notebook RAG.ipynb
    ```
