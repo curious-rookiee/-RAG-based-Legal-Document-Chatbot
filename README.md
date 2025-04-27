@@ -68,7 +68,7 @@ ollama pull nomic-embed-text
 3. **Start the Chatbot**: Execute the final cells to launch the Gradio interface. You can then ask questions in the browser or share the auto-generated link.
 
 ## Chat via UI 
-- Select the Link coming in UI cell 
+- Select the Link poping in UI cell
 ![Chat UI Screenshot](images/UI_Link.png)
 ## Example Queries
 - "Can you explain the case study highlighted in the document?"
